@@ -18,7 +18,7 @@ business use cases from my professional experience at **Wipro Technologies**.
 - Query optimization for reporting performance
 
 ## 🔹 Tools & Technologies
-- Power BI, Excel
+- Power BI, Tableau,Excel
 - SQL Server, Oracle, PostgreSQL
 - Python (for data preparation)
 - Dataiku
